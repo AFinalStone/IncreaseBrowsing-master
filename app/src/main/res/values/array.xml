@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="url">
+        <item>http://blog.csdn.net/abc6368765/article/details/52557145</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52535192</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52525694</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52523322</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52510761</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52502949</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52486396</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52486343</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51958012</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51819699</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51803164</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51802544</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51800108</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51792153</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51785370</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51784561</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51722719</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51684567</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51693270</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51672481</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51569666</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51567845</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51558452</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51375305</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51362723</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51252481</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51198265</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51566669</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51565314</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51179411</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51159816</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50998490</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50912078</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/51038538</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50907504</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50878812</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50894859</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50893625</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50859356</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50790077</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50699334</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50696133</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50667243</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50625542</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50625521</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50588597</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50576203</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50555371</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50474218</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50468292</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50467379</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50465238</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50366081</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/50359807</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/44730433</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/41322253</item>
+
+    </string-array>
+</resources>
