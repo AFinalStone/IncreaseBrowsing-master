@@ -2,6 +2,12 @@
 <resources>
 
     <string-array name="url">
+        <item>http://blog.csdn.net/abc6368765/article/details/52800561</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52797111</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52796763</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52786509</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52770144</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/52786509</item>
         <item>http://blog.csdn.net/abc6368765/article/details/52557145</item>
         <item>http://blog.csdn.net/abc6368765/article/details/52535192</item>
         <item>http://blog.csdn.net/abc6368765/article/details/52525694</item>
@@ -58,6 +64,6 @@
         <item>http://blog.csdn.net/abc6368765/article/details/50359807</item>
         <item>http://blog.csdn.net/abc6368765/article/details/44730433</item>
         <item>http://blog.csdn.net/abc6368765/article/details/41322253</item>
-
+        <item>http://www.jianshu.com/p/adab57301d6e</item>
     </string-array>
 </resources>
