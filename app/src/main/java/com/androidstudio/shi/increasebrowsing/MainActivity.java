@@ -1,5 +1,7 @@
 package com.androidstudio.shi.increasebrowsing;
 
+import android.os.Handler;
+import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -19,8 +21,37 @@ import okhttp3.Request;
 
 public class MainActivity extends AppCompatActivity {
 
-   private TextView btn_test;
+    private TextView btn_test;
+    private String[] city;
+    private int i = 0;
+    private Handler handler = new Handler(new Handler.Callback() {
+        @Override
+        public boolean handleMessage(Message msg) {
+            OkHttpUtils
+                    .get()
+                    .url(city[i])
+                    .build()
+                    .connTimeOut(8000)
+                    .execute(new StringCallback() {
 
+                        @Override
+                        public void onError(Call call, Exception e) {
+                        }
+
+                        @Override
+                        public void onResponse(String response) {
+                            Log.e("返回结果", response);
+                        }
+                    });
+            i++;
+            if (i < city.length) {
+                handler.sendEmptyMessageDelayed(0, 1000);
+                return true;
+            }else{
+                return false;
+            }
+        }
+    });
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,36 +61,9 @@ public class MainActivity extends AppCompatActivity {
         btn_test.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                getData();
+                handler.sendEmptyMessage(0);
             }
         });
-
-
-    }
-
-    private void getData(){
-        String[] city = getResources().getStringArray(R.array.url);
-        for (int i=0; i<city.length; i++){
-            OkHttpUtils
-                    .get()
-                    .url(city[i])
-                    .build()
-                    .connTimeOut(3000)
-                    .execute(new StringCallback()
-                    {
-
-                        @Override
-                        public void onError(Call call, Exception e) {
-
-                        }
-
-                        @Override
-                        public void onResponse(String response)
-                        {
-                            Log.e("返回结果",response);
-                        }
-                    });
-        }
-
+        city = getResources().getStringArray(R.array.url);
     }
 }

@@ -2,6 +2,14 @@
 <resources>
 
     <string-array name="url">
+        <item>http://blog.csdn.net/abc6368765/article/details/56280967</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/56278081</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/56071533</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/56012222</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/56005105</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/54971439</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/54971439</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/54890863</item>
         <item>http://blog.csdn.net/abc6368765/article/details/54646364</item>
         <item>http://blog.csdn.net/abc6368765/article/details/54632140</item>
         <item>http://blog.csdn.net/abc6368765/article/details/54631981</item>
