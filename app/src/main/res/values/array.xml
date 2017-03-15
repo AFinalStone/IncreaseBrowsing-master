@@ -2,6 +2,23 @@
 <resources>
 
     <string-array name="url">
+
+
+        <item>http://blog.csdn.net/abc6368765/article/details/61922025</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/61915104</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/61614759</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/61209140</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/61203273</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/61200874</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/60959893</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/60959637</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/60959370</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/60959225</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/58089567</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/58031157</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/58028461</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/58025901</item>
+        <item>http://blog.csdn.net/abc6368765/article/details/56494434</item>
         <item>http://blog.csdn.net/abc6368765/article/details/56280967</item>
         <item>http://blog.csdn.net/abc6368765/article/details/56278081</item>
         <item>http://blog.csdn.net/abc6368765/article/details/56071533</item>
